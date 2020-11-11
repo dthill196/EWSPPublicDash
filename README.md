@@ -1,1 +1,5 @@
 # EWSPPublicDash
+
+We began the NY State SARS2 early warning wastewater surveillance platform in early March of 2020. Shortly after Medema and colleagues documented the feasibility of tracking coronavirus transmission through wastewater. Participating counties and wastewater treatment plants provide wastewater samples weekly or semi-weekly (twice per week), lab analyses are conducted at SUNY Upstate/ESF, and trends and maps are will help  to guide the pandemic response. This project is a collaboration between Syracuse University, SUNY ESF, SUNY Upstate, Quadrant Biosciences, Arcadis, and the New York State Department of Health.
+
+This dashboard shows a trend analysis results of wastewater-based SARS2 detection/quantification in participating NY counties. We show statewide maps that display county and sub-county-level trends over a two week data collection period.
